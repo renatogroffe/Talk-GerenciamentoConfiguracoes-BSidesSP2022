@@ -1,5 +1,5 @@
 # Talk-GerenciamentoConfiguracoes-BSidesSP2022
-Informações (fotos + prints + slides + repositório) sobre a apresentação que realizei no dia, durante a 17a edição da **Security BSides São Paulo (BSidesSP)**, uma conferência sobre Segurança da Informação e Cultura Hacker que aconteceu em São Paulo-SP no dia 20/11/2022 (domingo).
+Informações (fotos + prints + slides + repositório) sobre a apresentação que realizei no dia, durante a **17a edição** da **Security BSides São Paulo (BSidesSP)**, uma conferência sobre Segurança da Informação e Cultura Hacker que aconteceu em **São Paulo-SP** no dia **20/11/2022 (domingo)**.
 
 Título da Apresentação: **Gerenciamento seguro de configurações no Azure**
 
